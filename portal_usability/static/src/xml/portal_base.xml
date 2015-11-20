@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates>
+    <t t-extend="UserMenu" >
+        <t t-jquery=".dropdown-menu" t-operation="replace">
+            <ul class="dropdown-menu">
+                <li><a href="#" data-menu="logout">Log out</a></li>
+            </ul>
+        </t>
+    </t>
+</templates>
