@@ -7,7 +7,7 @@
     'depends': [
         'auth_ldap',
     ],
-    'author': 'Elico Corp,Odoo Community Association (OCA)',
+    'author': 'Elico Corp',
     'license': 'AGPL-3',
     'installable': True,
     'application': False
